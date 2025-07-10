@@ -14,7 +14,7 @@ public class GameOverManager : MonoBehaviour
         }
         else
         {
-            finalScoreText.text = "Final Score: 0";
+            finalScoreText.text = "Final Score: 15";
         }
     }
 

@@ -10,8 +10,8 @@ public class WordGridGenerator : MonoBehaviour
     private string[,] gridLetters = new string[5, 5] {
         { "S", "X", "L", "A", "D" },
         { "T", "C", "R", "A", "P" },
-        { "Z", "K", "L", "M", "N" },
-        { "P", "Q", "B", "W", "E" },
+        { "O", "K", "L", "I", "N" },
+        { "P", "V", "B", "W", "E" },
         { "Y", "H", "G", "U", "I" }
     };
 

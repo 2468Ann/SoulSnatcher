@@ -88,6 +88,10 @@ public class GameManager : MonoBehaviour
         }
         else if (currentScene == "level2")
         {
+            SceneManager.LoadScene("level3");
+        }
+        else if (currentScene == "level3")
+        {
             SceneManager.LoadScene("GameOver");
         }
     }
